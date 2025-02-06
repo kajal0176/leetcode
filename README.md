@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1364-tuple-with-same-product](https://github.com/kajal0176/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kajal0176/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kajal0176/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/kajal0176/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kajal0176/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kajal0176/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
 | ------- |
