@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/kajal0176/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/kajal0176/leetcode/tree/master/3447-clear-digits) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/kajal0176/leetcode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 ## Counting
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kajal0176/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3447-clear-digits](https://github.com/kajal0176/leetcode/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/kajal0176/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kajal0176/leetcode/tree/master/0283-move-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/kajal0176/leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
