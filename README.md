@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kajal0176/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kajal0176/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/kajal0176/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/kajal0176/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Tree
 |  |
 | ------- |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/kajal0176/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Sorting
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kajal0176/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3712-minimum-cost-to-make-arrays-identical](https://github.com/kajal0176/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 ## Enumeration
 |  |
 | ------- |
