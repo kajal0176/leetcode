@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kajal0176/leetcode/tree/master/0283-move-zeroes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/kajal0176/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kajal0176/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kajal0176/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kajal0176/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kajal0176/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kajal0176/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kajal0176/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Iterator
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/kajal0176/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/kajal0176/leetcode/tree/master/0189-rotate-array) |
+| [1477-product-of-the-last-k-numbers](https://github.com/kajal0176/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -144,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/kajal0176/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kajal0176/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/kajal0176/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
