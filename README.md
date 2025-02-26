@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/kajal0176/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/kajal0176/leetcode/tree/master/3447-clear-digits) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/kajal0176/leetcode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kajal0176/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/kajal0176/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kajal0176/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kajal0176/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kajal0176/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kajal0176/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/kajal0176/leetcode/tree/master/3447-clear-digits) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/kajal0176/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kajal0176/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -254,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kajal0176/leetcode/tree/master/0045-jump-game-ii) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kajal0176/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kajal0176/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kajal0176/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kajal0176/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
