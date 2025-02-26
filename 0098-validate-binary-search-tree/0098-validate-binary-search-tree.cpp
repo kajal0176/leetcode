@@ -11,25 +11,28 @@
  */
 class Solution {
 public:
-    void check(TreeNode* root,long min,long mx,bool &f){
+    bool check(TreeNode* root,long min,long mx,bool &f){
        
          if((root->val<=min)||(root->val>=mx)){
             f= false;
-             return;
+             return false;
         }
         if(root->left){
-            check(root->left,min,root->val,f);
+            if(!check(root->left,min,root->val,f)){
+              return false;
+            }
         }
         if(root->right){
-             check(root->right,root->val,mx,f);
+             if(!check(root->right,root->val,mx,f)) return false;
         }
+        return true;
     }
     bool isValidBST(TreeNode* root) {
         bool f=true;
         long max=LONG_MAX;
         long mn=LONG_MIN;
-      check(root,mn,max,f);
-        return f;
+     return check(root,mn,max,f);
+      //  return f;
       
     }
 };
