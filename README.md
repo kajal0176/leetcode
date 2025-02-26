@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/kajal0176/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/kajal0176/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/kajal0176/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/kajal0176/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Tree
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/kajal0176/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/kajal0176/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/kajal0176/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kajal0176/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/kajal0176/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/kajal0176/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/kajal0176/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/kajal0176/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/kajal0176/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/kajal0176/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/kajal0176/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kajal0176/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kajal0176/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3764-maximum-sum-with-at-most-k-elements](https://github.com/kajal0176/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
