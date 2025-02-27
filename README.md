@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kajal0176/leetcode/tree/master/0079-word-search) |
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/kajal0176/leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/kajal0176/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kajal0176/leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/kajal0176/leetcode/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/kajal0176/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kajal0176/leetcode/tree/master/0283-move-zeroes) |
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kajal0176/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/kajal0176/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kajal0176/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kajal0176/leetcode/tree/master/0048-rotate-image) |
+| [0079-word-search](https://github.com/kajal0176/leetcode/tree/master/0079-word-search) |
 | [0733-flood-fill](https://github.com/kajal0176/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/kajal0176/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kajal0176/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kajal0176/leetcode/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/kajal0176/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/kajal0176/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/kajal0176/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
