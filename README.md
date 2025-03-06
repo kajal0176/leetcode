@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/kajal0176/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kajal0176/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kajal0176/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/kajal0176/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kajal0176/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## String
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/kajal0176/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kajal0176/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kajal0176/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/kajal0176/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kajal0176/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kajal0176/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kajal0176/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/kajal0176/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kajal0176/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/kajal0176/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kajal0176/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/kajal0176/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kajal0176/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/kajal0176/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3227-find-missing-and-repeated-values](https://github.com/kajal0176/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/kajal0176/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/kajal0176/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Two Pointers
