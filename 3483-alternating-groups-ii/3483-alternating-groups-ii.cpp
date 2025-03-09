@@ -9,22 +9,15 @@ public:
         while(j<2*colors.size()){
            // cout<<j<<" ";
            if(i>=colors.size())return ans;
-          if(q.size()==0||q.back()!=colors[j%n]){
-            q.push_back(colors[j%n]);
-            if(abs(j-i+1)==k){
-               // cout<<j%n<<" ";
-                ans++;
-               // q.pop_front();
-                i++;
-                
-            }
-          }
-          else{
-            
-            q.push_back(colors[j%n]);
+           q.push_back(colors[j%n]);
+          
+           if(q.size()>1&&q[j%n]==q[(j-1)%n]){
             i=j;
           }
-         
+           if(j-i+1==k){
+            ans++;
+            i++;
+           }
           j++;
         }
        
