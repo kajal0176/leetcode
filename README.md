@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/kajal0176/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kajal0176/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3483-alternating-groups-ii](https://github.com/kajal0176/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/kajal0176/leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kajal0176/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kajal0176/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/kajal0176/leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/kajal0176/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/kajal0176/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/kajal0176/leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kajal0176/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/kajal0176/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3593-find-the-maximum-factor-score-of-array](https://github.com/kajal0176/leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kajal0176/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
