@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/kajal0176/leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kajal0176/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kajal0176/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/kajal0176/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kajal0176/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kajal0176/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/kajal0176/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3227-find-missing-and-repeated-values](https://github.com/kajal0176/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kajal0176/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kajal0176/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/kajal0176/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/kajal0176/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Two Pointers
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kajal0176/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kajal0176/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kajal0176/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kajal0176/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/kajal0176/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Breadth-First Search
 |  |
@@ -273,11 +276,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kajal0176/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/kajal0176/leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kajal0176/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kajal0176/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/kajal0176/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kajal0176/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kajal0176/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/kajal0176/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
 ## Data Stream
 |  |
