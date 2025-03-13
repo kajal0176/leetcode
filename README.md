@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/kajal0176/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/kajal0176/leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3643-zero-array-transformation-ii](https://github.com/kajal0176/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kajal0176/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kajal0176/leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/kajal0176/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/kajal0176/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2027-maximum-number-of-removable-characters](https://github.com/kajal0176/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kajal0176/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/kajal0176/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3690-smallest-substring-with-identical-characters-i](https://github.com/kajal0176/leetcode/tree/master/3690-smallest-substring-with-identical-characters-i) |
 | [3706-smallest-substring-with-identical-characters-ii](https://github.com/kajal0176/leetcode/tree/master/3706-smallest-substring-with-identical-characters-ii) |
 | [3720-minimize-the-maximum-edge-weight-of-graph](https://github.com/kajal0176/leetcode/tree/master/3720-minimize-the-maximum-edge-weight-of-graph) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/kajal0176/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kajal0176/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/kajal0176/leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
 | ------- |
