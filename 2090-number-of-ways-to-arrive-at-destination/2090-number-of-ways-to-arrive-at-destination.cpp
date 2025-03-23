@@ -17,8 +17,10 @@ public:
             long long nd=q.top().second;
             long long ds=q.top().first;
             q.pop();
-           // cout<<nd<<" ";
+            cout<<nd<<" ";
+           // cout<<dist[nd]<<" "<<ds<<"\n";
             for(auto neigh:adj[nd]){
+                
                 if(dist[neigh.first]>ds+neigh.second){
                     dist[neigh.first]=ds+neigh.second;
                     cnt[neigh.first]=cnt[nd];
