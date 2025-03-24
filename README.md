@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/kajal0176/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kajal0176/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/kajal0176/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/kajal0176/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kajal0176/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/kajal0176/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3593-find-the-maximum-factor-score-of-array](https://github.com/kajal0176/leetcode/tree/master/3593-find-the-maximum-factor-score-of-array) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kajal0176/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/kajal0176/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kajal0176/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/kajal0176/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
