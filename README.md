@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kajal0176/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kajal0176/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kajal0176/leetcode/tree/master/0743-network-delay-time) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kajal0176/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kajal0176/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/kajal0176/leetcode/tree/master/0743-network-delay-time) |
 | [1753-path-with-minimum-effort](https://github.com/kajal0176/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/kajal0176/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kajal0176/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/kajal0176/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kajal0176/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/kajal0176/leetcode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/kajal0176/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/kajal0176/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kajal0176/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kajal0176/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/kajal0176/leetcode/tree/master/0743-network-delay-time) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kajal0176/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kajal0176/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kajal0176/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/kajal0176/leetcode/tree/master/0743-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/kajal0176/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kajal0176/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kajal0176/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
