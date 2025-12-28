@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kajal0176/leetcode/tree/master/0079-word-search) |
 | [0189-rotate-array](https://github.com/kajal0176/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kajal0176/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/kajal0176/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kajal0176/leetcode/tree/master/0733-flood-fill) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kajal0176/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
