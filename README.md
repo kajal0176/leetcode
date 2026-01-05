@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/kajal0176/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kajal0176/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/kajal0176/leetcode/tree/master/1929-concatenation-of-array) |
+| [1975-maximum-matrix-sum](https://github.com/kajal0176/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2027-maximum-number-of-removable-characters](https://github.com/kajal0176/leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2107-find-unique-binary-string](https://github.com/kajal0176/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/kajal0176/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kajal0176/leetcode/tree/master/0045-jump-game-ii) |
+| [1975-maximum-matrix-sum](https://github.com/kajal0176/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/kajal0176/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/kajal0176/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/kajal0176/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/kajal0176/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kajal0176/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/kajal0176/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1975-maximum-matrix-sum](https://github.com/kajal0176/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/kajal0176/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/kajal0176/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/kajal0176/leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
