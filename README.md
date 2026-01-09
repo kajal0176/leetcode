@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kajal0176/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-fruit-into-baskets](https://github.com/kajal0176/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kajal0176/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kajal0176/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kajal0176/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kajal0176/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kajal0176/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kajal0176/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kajal0176/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kajal0176/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kajal0176/leetcode/tree/master/0743-network-delay-time) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kajal0176/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/kajal0176/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/kajal0176/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kajal0176/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kajal0176/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kajal0176/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kajal0176/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/kajal0176/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/kajal0176/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/kajal0176/leetcode/tree/master/0743-network-delay-time) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/kajal0176/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/kajal0176/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/kajal0176/leetcode/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/kajal0176/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
