@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kajal0176/leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/kajal0176/leetcode/tree/master/0115-distinct-subsequences) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kajal0176/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/kajal0176/leetcode/tree/master/0721-accounts-merge) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/kajal0176/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/kajal0176/leetcode/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/kajal0176/leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/kajal0176/leetcode/tree/master/0115-distinct-subsequences) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/kajal0176/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/kajal0176/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/kajal0176/leetcode/tree/master/1170-shortest-common-supersequence) |
