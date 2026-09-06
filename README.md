@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/kajal0176/leetcode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3712-minimum-cost-to-make-arrays-identical](https://github.com/kajal0176/leetcode/tree/master/3712-minimum-cost-to-make-arrays-identical) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/kajal0176/leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
+| [3904-smallest-stable-index-ii](https://github.com/kajal0176/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
 |  |
 | ------- |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/kajal0176/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/kajal0176/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/kajal0176/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/kajal0176/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
